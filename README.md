@@ -19,9 +19,10 @@ This project focuses on creating a clean and responsive portfolio website suitab
 
 ## Website Sections
 - **Home** – Introduction  
-- **About** – Personal background  
+- **About** – Personal background
+- **Hobbies** – Interest and Favourties  
 - **Skills** – Technical and professional skills  
-- **Contact** – Communication form  
+
 
 ---
 
